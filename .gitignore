@@ -5,4 +5,5 @@
 *.obj
 *.exe
 *.def
+*.lib
 [Mm]akefile
